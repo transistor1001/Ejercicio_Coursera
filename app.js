@@ -1,4 +1,5 @@
 // Hecho por mi
+// se que no es viable manejando gran cantidad de fotos pero me siento orgulloso de lograrlo por mi mismo para cumplir con el ejercicio
 function upDate(previewPic) {
     // cambia el texto
     var filtro= previewPic.alt
